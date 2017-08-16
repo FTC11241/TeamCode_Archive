@@ -10,7 +10,8 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaLocalizer;
 import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackables;
 
 /**
- * Created by rmorgan on 8/11/2017 practicing JAVA/Vuforia using youtube video https://www.youtube.com/watch?v=2z-o9Ts8XoE
+ * Created by rmorgan on 8/11/2017 mod. 8/16/2017 practicing JAVA/Vuforia using
+ * youtube video https://www.youtube.com/watch?v=2z-o9Ts8XoE
  * and GitHub https://www.youtube.com/watch?v=Ldmc757EXaE&feature=youtu.be&t=1m5s
  */
 
